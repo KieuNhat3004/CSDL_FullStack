@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDL3", "CSDL3\CSDL3.csproj", "{51B1AC6C-40E8-46B9-B1EF-B5F9226B219B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B1AC6C-40E8-46B9-B1EF-B5F9226B219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B1AC6C-40E8-46B9-B1EF-B5F9226B219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B1AC6C-40E8-46B9-B1EF-B5F9226B219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B1AC6C-40E8-46B9-B1EF-B5F9226B219B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38379CE7-2012-4CEC-B9B9-C1CE8A361C35}
+	EndGlobalSection
+EndGlobal
